@@ -1,0 +1,58 @@
+.main{
+    width: 1000px;
+    height: 710px;
+    background-color;
+    float: left;
+
+}
+.salam{
+    width: inherit;
+    height: 110px;
+    background-color: aqua;
+    float: left;
+    margin: 10px 10px;
+  
+}
+
+.saqol{
+    width: 1000px;
+    height: 490px;
+    background-color: white  ;
+    float: left;
+    margin: 10px 10px ;
+
+   
+}
+
+.a{
+    width: inherit ;
+    height:110px ;
+    background-color: blueviolet;
+    float: left;
+    margin: 10px 10px;
+
+}
+
+.b{
+    height: 470px;
+    width: 320px;
+    float: left;
+    background-color: green ;
+    margin: 10px 10px;
+
+}
+
+.c{
+    height: 470px;
+    width: 310px;
+    float: left;
+    background-color: crimson;
+    margin: 10px 10px;
+}
+.d{
+    height: 470px;
+    width: 310px;
+    background-color: deeppink;
+    float: left;
+    margin: 10px 10px; 
+}
