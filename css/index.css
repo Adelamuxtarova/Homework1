@@ -1,58 +1,70 @@
 .main{
     width: 1000px;
-    height: 710px;
-    background-color;
+    height: 850px;
     float: left;
+    margin-left : -26px; 
+    
+    
 
 }
+
 .salam{
-    width: inherit;
+    width: 831px;
     height: 110px;
-    background-color: aqua;
+    background-color: yellow ;
     float: left;
-    margin: 10px 10px;
+    margin: -7px 19px;
+    padding-left:20px;
+    padding-top: 20px;
   
 }
 
 .saqol{
     width: 1000px;
     height: 490px;
-    background-color: white  ;
     float: left;
-    margin: 10px 10px ;
-
+    padding-left:20px;
+    padding-top: 20px;
+    
    
 }
 
 .a{
-    width: inherit ;
+    width: 832px ;
     height:110px ;
-    background-color: blueviolet;
+    background-color: yellow;
     float: left;
-    margin: 10px 10px;
-
+    margin: 30px 19px;
+    padding-left:20px;
+    padding-top: 20px;
 }
 
 .b{
     height: 470px;
-    width: 320px;
+    width: 250px;
     float: left;
-    background-color: green ;
-    margin: 10px 10px;
+    background-color: yellow ;
+    margin: 10px 10px 10px 0px;
+    padding-left:20px;
+    padding-top: 20px;
 
 }
 
 .c{
     height: 470px;
-    width: 310px;
+    width: 250px;
     float: left;
-    background-color: crimson;
-    margin: 10px 10px;
+    background-color: yellow;
+    margin: 10px 10px 10px 10px;
+    padding-left:20px;
+    padding-top: 20px;
 }
 .d{
     height: 470px;
-    width: 310px;
-    background-color: deeppink;
+    width: 250px;
+    background-color: yellow;
     float: left;
-    margin: 10px 10px; 
+    margin: 10px 10px 10px 10px; 
+    padding-left:20px;
+    padding-top: 20px;
 }
